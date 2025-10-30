@@ -145,9 +145,9 @@ cd loan-approval-rl
 
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
+```
+Now run each Cell in the python notebooks
 
-then 
-run the each cell in Python Notebooks
 ---
 
 ## 📚 References
