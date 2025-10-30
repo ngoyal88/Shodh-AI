@@ -140,8 +140,8 @@ Learn a policy that **decides whether to approve or deny** a loan to **maximize 
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/loan-approval-rl.git
-cd loan-approval-rl
+git clone https://github.com/ngoyal88/Shodh-AI.git
+cd Shodh-AI
 
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
